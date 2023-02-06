@@ -1,0 +1,5 @@
+tao thu muc: git clone name
+update file: git add .
+ket thuc: git commit -m "first commit"
+dang nhap:
+git config --global user.email "you@example.com"
