@@ -2,4 +2,6 @@ tao thu muc: git clone name
 update file: git add .
 ket thuc: git commit -m "first commit"
 dang nhap:
-git config --global user.email "you@example.com"
+git push
+git config --global user.email "01678388802.vn@gmail.com"
+git config --global user.name "Caovannguyen"
