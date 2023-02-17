@@ -96,9 +96,9 @@ class youtubedl:
                 download = youtubedl(i, youtubedl.path_video)
                 download.video()
 
-# download = youtubedl('','')
-# download.download_list_music_in_txt()
+download = youtubedl('','')
+download.download_list_music_in_txt()
 
-link = str(input('Add link: '))
-download = youtubedl(link, youtubedl.path_music)
-download.music()
+# link = str(input('Add link: '))
+# download = youtubedl(link, youtubedl.path_music)
+# download.video()
